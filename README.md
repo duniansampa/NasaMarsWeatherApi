@@ -1,7 +1,8 @@
 # NasaMarsWeatherApi
 
 The instructions for running the program are:
-1. Clone the github repository (https://github.com/duniansampa/NasaMarsWeatherApi);
+1. Clone the github repository (https://github.com/duniansampa/NasaMarsWeatherApi.git).
+   Repository page url is https://github.com/duniansampa/NasaMarsWeatherApi .
 2. Open the project in Apache Netbeans.
 3. Compile the project;
 4. Run the project.
