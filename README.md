@@ -9,4 +9,4 @@ The instructions for running the program are:
 
 To see the result, use the following url:
 1. http://localhost:8080/nasa/temperature
-2. http://localhost:8080/nasa/temperature/<SOL> (e.g. http://localhost:8080/nasa/temperature/422)
+2. http://localhost:8080/nasa/temperature/SOL (e.g. http://localhost:8080/nasa/temperature/422)
